@@ -1,4 +1,4 @@
-
+/*
 function search() {
     var searchTerm = document.getElementById("searchInput").value;
     fetch("https://digimon-api.vercel.app/api/digimon/name/:name" + searchTerm)
@@ -19,7 +19,7 @@ function search() {
         }
       });
   }
- 
+ */
 
 
 
